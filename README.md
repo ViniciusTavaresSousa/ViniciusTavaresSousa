@@ -10,7 +10,7 @@
 
 - **Linguagem principal:** Python  
 - **Machine Learning:** TensorFlow
-- 
+  
 ---
 
 ## 🚀 Projetos em Destaque 
