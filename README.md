@@ -31,9 +31,3 @@
 - LinkedIn: [linkedin.com/in/devviniciustavares](https://www.linkedin.com/in/devviniciustavares/)  
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusTavaresSousa&show_icons=true&theme=radical)
-
----
