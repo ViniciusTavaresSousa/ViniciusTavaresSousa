@@ -32,4 +32,4 @@
 - Email: [devviniciustavares@gmail.com](mailto:devviniciustavares@email.com)  
 - LinkedIn: [linkedin.com/in/devviniciustavares](https://www.linkedin.com/in/devviniciustavares/)  
 
-
+---
