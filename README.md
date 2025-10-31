@@ -10,6 +10,8 @@
 
 - **Linguagem principal:** Python  
 - **Machine Learning:** TensorFlow
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTavaresSousa&layout=compact&theme=radical)
 ---
 
 ## 🚀 Projetos em Destaque
@@ -30,7 +32,4 @@
 - Email: [devviniciustavares@gmail.com](mailto:devviniciustavares@email.com)  
 - LinkedIn: [linkedin.com/in/devviniciustavares](https://www.linkedin.com/in/devviniciustavares/)  
 
----
-## 📫 Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTavaresSousa&layout=compact&theme=radical)
