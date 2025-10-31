@@ -10,19 +10,18 @@
 
 - **Linguagem principal:** Python  
 - **Machine Learning:** TensorFlow
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTavaresSousa&layout=compact&theme=radical)
+- 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **Detecção de Anomalias Visuais**  
+- [**Detecção de Anomalias Visuais**](https://github.com/ViniciusTavaresSousa/autoencoder-anomalias) 
   Autoencoder convolucional treinado para identificar defeitos industriais usando imagens de alta resolução.  
 
-- **Previsão de Produtividade Agrícola**  
+- [**Previsão de Produtividade Agrícola**](https://github.com/ViniciusTavaresSousa/Previsao-de-Produtividade-de-Soja-Utilizando-Adaptacao-de-Dominio) 
   Modelos de Deep Learning e adaptação de domínio para estimativa de produtividade de soja com base em dados de satélite e variáveis climáticas.  
 
-- **Mapeamento de Soja com Satélite**  
+- [**Mapeamento de Soja com Satélite**](https://github.com/ViniciusTavaresSousa/Deteccao-de-Anomalias-Visuais-com-Autoencoder-Convolucional-e-Perda-Hibrida-no-Dataset-MVTec-AD)  
   Extração de imagens e análise de regiões agrícolas para identificação e monitoramento de culturas.
 
 ---
