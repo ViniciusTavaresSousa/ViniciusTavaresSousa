@@ -1,13 +1,10 @@
 # 👋 Seja bem-vindo! Meu nome é Vinicius Tavares
 
-**Formação:**  
-Estudante em fase final da graduação em **Engenharia de Computação** na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
+- **Formação:** Estudante em fase final da graduação em **Engenharia de Computação** na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
 
-**Especialização:**  
-Foco em **Machine Learning**, com experiência no desenvolvimento de modelos inteligentes utilizando **TensorFlow** e **Python**.
+- **Especialização:** Foco em **Machine Learning**, com experiência no desenvolvimento de modelos inteligentes utilizando **TensorFlow** e **Python**.
 
-**Objetivo:**  
-Transformar **dados** em **ferramentas práticas e eficazes**, aplicando IA para resolver **problemas reais** de forma criativa e eficiente.
+- **Objetivo:** Transformar **dados** em **ferramentas práticas e eficazes**, aplicando IA para resolver **problemas reais** de forma criativa e eficiente.
 
 ---
 
