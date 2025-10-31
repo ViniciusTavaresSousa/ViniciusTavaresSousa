@@ -9,11 +9,8 @@ Dedico meus estudos e projetos ao desenvolvimento de soluções inteligentes, cr
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens:** Python, Java, SQL  
-- **Machine Learning / IA:** TensorFlow, PyTorch, Autoencoders, Deep Q-Learning  
-- **Dados e Satélite:** Google Earth Engine, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
-- **Controle de Versão:** Git, GitHub  
-
+- **Linguagem principal:** Python  
+- **Machine Learning / IA:** TensorFlow
 ---
 
 ## 🔭 Projetos em Destaque
