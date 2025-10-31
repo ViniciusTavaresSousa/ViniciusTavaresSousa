@@ -4,13 +4,12 @@ Sou estudante em fase final da graduação em Engenharia de Computação na Univ
 
 Dedico meus estudos e projetos ao desenvolvimento de soluções inteligentes, criando modelos personalizados de ML com TensorFlow e Python, com foco em transformar dados em ferramentas práticas e eficazes para resolver problemas do mundo real.
 
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
 - **Linguagem principal:** Python  
-- **Machine Learning / IA:** TensorFlow
+- **Machine Learning:** TensorFlow
 ---
 
 ## 🔭 Projetos em Destaque
