@@ -31,3 +31,5 @@
 - LinkedIn: [linkedin.com/in/devviniciustavares](https://www.linkedin.com/in/devviniciustavares/)  
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTavaresSousa&layout=compact&theme=radical)
