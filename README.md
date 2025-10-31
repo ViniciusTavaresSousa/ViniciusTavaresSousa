@@ -4,8 +4,6 @@
 
 - **Especialização:** Foco em **Machine Learning**, com experiência no desenvolvimento de modelos inteligentes utilizando **TensorFlow** e **Python**.
 
-- **Objetivo:** Transformar **dados** em **ferramentas práticas e eficazes**, aplicando IA para resolver **problemas reais** de forma criativa e eficiente.
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
@@ -14,7 +12,7 @@
 - **Machine Learning:** TensorFlow
 ---
 
-## 🔭 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 - **Detecção de Anomalias Visuais**  
   Autoencoder convolucional treinado para identificar defeitos industriais usando imagens de alta resolução.  
