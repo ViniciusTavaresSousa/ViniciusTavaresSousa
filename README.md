@@ -19,7 +19,7 @@
   Autoencoder convolucional treinado para identificar defeitos industriais usando imagens de alta resolução.
 
 - **Previsão de Produtividade Agrícola**  
-  Modelos de Deep Learning e adaptação de domínio para estimativa de produtividade de soja com base em dados de satélite e variáveis climáticas.
+  Modelo de Deep Learning e adaptação de domínio para estimativa de produtividade de soja com base em dados de satélite e variáveis climáticas.
 
 - **Mapeamento de Soja com Satélite**  
   Extração de imagens e análise de regiões agrícolas para identificação e monitoramento de culturas.
