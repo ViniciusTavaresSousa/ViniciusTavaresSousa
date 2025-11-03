@@ -24,6 +24,8 @@
 - **Mapeamento de Soja com Satélite**  
   Extração de imagens e análise de regiões agrícolas para identificação e monitoramento de culturas.
 
+- **Detecção de Doenças em Folhas de Soja**  
+  CNN treinada para classificar folhas de soja em cinco categorias utilizando o dataset ASDID, com técnicas de data augmentation para aumentar a robustez do modelo.
 ---
 
 ## 📫 Contato
